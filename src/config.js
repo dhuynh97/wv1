@@ -23,10 +23,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/danielhuynh97',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/danielhuynh97',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/danisdabombdotcom',
     },
